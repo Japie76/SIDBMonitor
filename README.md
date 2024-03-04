@@ -10,6 +10,10 @@ Configure the SIDBMonitor.properties to point to your Database.
 
 <img width="939" alt="image" src="https://github.com/mbabari/SIDBMonitor/assets/21334212/7cc0a5bd-5b24-40bc-820e-24149b47c29e">
 
+
+<img width="723" alt="image" src="https://github.com/mbabari/SIDBMonitor/assets/21334212/1c95e479-57de-405f-b1c1-d1c220fb61c0">
+
+
 ## Disclaimer:
 Please note this is a NON IBM PRODUCT.
 You use this Software at your own risk and agree that IBM shall not be liable for any damages,
